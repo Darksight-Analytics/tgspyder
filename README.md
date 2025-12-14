@@ -60,7 +60,7 @@ TGSpyder Output/
 ## 🚀 Quick Start
 1️⃣ Clone the repository
 ```bash
-git clone https://github.com/YOUR-USERNAME/tgspyder.git
+git clone https://github.com/Darksight-Analytics/tgspyder.git
 cd tgspyder
 ```
 2️⃣ Create & activate a virtual environment
@@ -173,4 +173,5 @@ Users are solely responsible for ensuring that their use of this tool complies w
 * Ethical research and investigative standards
 
 The author and contributors assume no liability for misuse of this tool or for any consequences arising from its use.
+
 
