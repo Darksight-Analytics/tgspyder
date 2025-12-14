@@ -1,0 +1,4 @@
+telethon>=1.34.0
+pysocks>=1.7.1
+colorama>=0.4.6
+rich>=13.7.0

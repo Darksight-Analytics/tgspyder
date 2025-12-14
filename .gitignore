@@ -1,0 +1,50 @@
+# =====================
+# Python
+# =====================
+__pycache__/
+*.py[cod]
+*$py.class
+__pypackages__/
+
+build/
+dist/
+*.egg-info/
+.eggs/
+pip-wheel-metadata/
+
+# =====================
+# Virtual environments
+# =====================
+venv/
+.venv/
+ENV/
+env/
+
+# =====================
+# OS / IDE
+# =====================
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# =====================
+# TGSpyder / Telegram
+# =====================
+*.session
+*.session-journal
+
+# Local credentials & configs
+.tgspyder.conf
+*.conf
+
+# =====================
+# Logs / exports
+# =====================
+*.log
+*.csv
+
+# =====================
+# Testing / tooling
+# =====================
+.pytest_cache/
